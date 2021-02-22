@@ -42,7 +42,7 @@
 <body>
     <div class="container">
         <h2>SIMPLE CALCULATOR</h2>
-        <form action="calc.php" method="POST">
+        <form action="calculator.php" method="POST">
             <div class="entry">
                 <div class="form-group">
                     <label for="firstVal">Enter input one</label>
